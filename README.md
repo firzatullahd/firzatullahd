@@ -2,7 +2,8 @@
 
 ## I'm a New Developer:
 
-    for the past few months I have learned, understand, and practice front end tools, such as HTML, CSS, Javscript, React, erc. I am confident that i can contribute as a Junior Front End Developer, and learn so much more!.
+> For the past few months I have learned, understand, and practice front end tools, such as HTML, CSS, Javascript
+> React, etc. I am confident that i can contribute as a Junior Front End Developer, and learn so much more!
 
 - I am currently looking for a job as a Junior Front End Developer.
 - I'm currently trying to build some small projects, and hopefully big ones in the near future.
@@ -11,18 +12,18 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="./img/vscode.ico" />]
-[<img align="left" alt="html" width="26px" src="./img/html.png" />]
-[<img align="left" alt="css" width="26px" src="./img/css.png.png" />]
-[<img align="left" alt="bootstrap" width="26px" src="./img/bootstrap.png" />]
-[<img align="left" alt="js" width="26px" src="./img/js.png" />]
-[<img align="left" alt="react" width="26px" src="./img/React.png" />]
-[<img align="left" alt="git" width="26px" src="./img/git.png" />]
-[<img align="left" alt="github" width="26px" src="./img/github.png" />]
-[<img align="left" alt="sass" width="26px" src="./img/sass.png" />]
-[<img align="left" alt="figma" width="26px" src="./img/figma.png" />]
-[<img align="left" alt="whimsical" width="26px" src="./img/whimsical.png" />]
-[<img align="left" alt="heroku" width="26px" src="./img/heroku.png" />]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/firzatullahd/firzatullahd/master/img/vscode.ico" />]
+[<img align="left" alt="html" width="26px" src="https://raw.githubusercontent.com/firzatullahd/firzatullahd/master/img/html.png" />]
+[<img align="left" alt="css" width="26px" src="https://raw.githubusercontent.com/firzatullahd/firzatullahd/master/img/css.png" />]
+[<img align="left" alt="bootstrap" width="26px" src="https://raw.githubusercontent.com/firzatullahd/firzatullahd/master/img/bootstrap.png" />]
+[<img align="left" alt="js" width="26px" src="https://raw.githubusercontent.com/firzatullahd/firzatullahd/master/img/js.png" />]
+[<img align="left" alt="react" width="26px" src="https://raw.githubusercontent.com/firzatullahd/firzatullahd/master/img/React.png" />]
+[<img align="left" alt="git" width="26px" src="https://raw.githubusercontent.com/firzatullahd/firzatullahd/master/img/git.png" />]
+[<img align="left" alt="github" width="26px" src="https://raw.githubusercontent.com/firzatullahd/firzatullahd/master/img/github.png" />]
+[<img align="left" alt="sass" width="26px" src="https://raw.githubusercontent.com/firzatullahd/firzatullahd/master/img/sass.png" />]
+[<img align="left" alt="figma" width="26px" src="https://raw.githubusercontent.com/firzatullahd/firzatullahd/master/img/figma.png" />]
+[<img align="left" alt="whimsical" width="26px" src="https://raw.githubusercontent.com/firzatullahd/firzatullahd/master/img/whimsical.png" />]
+[<img align="left" alt="heroku" width="26px" src="https://raw.githubusercontent.com/firzatullahd/firzatullahd/master/img/heroku.png" />]
 
 ## Some of My Projects:
 
