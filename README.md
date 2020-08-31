@@ -12,18 +12,18 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/firzatullahd/firzatullahd/master/img/vscode.ico" />]
-[<img align="left" alt="html" width="26px" src="https://raw.githubusercontent.com/firzatullahd/firzatullahd/master/img/html.png" />]
-[<img align="left" alt="css" width="26px" src="https://raw.githubusercontent.com/firzatullahd/firzatullahd/master/img/css.png" />]
-[<img align="left" alt="bootstrap" width="26px" src="https://raw.githubusercontent.com/firzatullahd/firzatullahd/master/img/bootstrap.png" />]
-[<img align="left" alt="js" width="26px" src="https://raw.githubusercontent.com/firzatullahd/firzatullahd/master/img/js.png" />]
-[<img align="left" alt="react" width="26px" src="https://raw.githubusercontent.com/firzatullahd/firzatullahd/master/img/React.png" />]
-[<img align="left" alt="git" width="26px" src="https://raw.githubusercontent.com/firzatullahd/firzatullahd/master/img/git.png" />]
-[<img align="left" alt="github" width="26px" src="https://raw.githubusercontent.com/firzatullahd/firzatullahd/master/img/github.png" />]
-[<img align="left" alt="sass" width="26px" src="https://raw.githubusercontent.com/firzatullahd/firzatullahd/master/img/sass.png" />]
-[<img align="left" alt="figma" width="26px" src="https://raw.githubusercontent.com/firzatullahd/firzatullahd/master/img/figma.png" />]
-[<img align="left" alt="whimsical" width="26px" src="https://raw.githubusercontent.com/firzatullahd/firzatullahd/master/img/whimsical.png" />]
-[<img align="left" alt="heroku" width="26px" src="https://raw.githubusercontent.com/firzatullahd/firzatullahd/master/img/heroku.png" />]
+[<img align="left" alt="Visual Studio Code" width="26px"/>](https://raw.githubusercontent.com/firzatullahd/firzatullahd/master/img/vscode.ico)
+[<img align="left" alt="html" width="26px" />](https://raw.githubusercontent.com/firzatullahd/firzatullahd/master/img/html.png)
+[<img align="left" a ()lt="css" width="26px" />](https://raw.githubusercontent.com/firzatullahd/firzatullahd/master/img/css.png)
+[<img align="left" alt="bootstrap" width="26px"  />](https://raw.githubusercontent.com/firzatullahd/firzatullahd/master/img/bootstrap.png)
+[<img align="left" alt="js" width="26px" />](https://raw.githubusercontent.com/firzatullahd/firzatullahd/master/img/js.png)
+[<img align="left" alt="react" width="26px" />](https://raw.githubusercontent.com/firzatullahd/firzatullahd/master/img/React.png)
+[<img align="left" alt="git" width="26px" />](https://raw.githubusercontent.com/firzatullahd/firzatullahd/master/img/git.png)
+[<img align="left" alt="github" width="26px" />](https://raw.githubusercontent.com/firzatullahd/firzatullahd/master/img/github.png)
+[<img align="left" alt="sass" width="26px" />](https://raw.githubusercontent.com/firzatullahd/firzatullahd/master/img/sass.png)
+[<img align="left" alt="figma" width="26px" />](https://raw.githubusercontent.com/firzatullahd/firzatullahd/master/img/figma.png)
+[<img align="left" alt="whimsical" width="26px" />](https://raw.githubusercontent.com/firzatullahd/firzatullahd/master/img/whimsical.png)
+[<img align="left" alt="heroku" width="26px" />](https://raw.githubusercontent.com/firzatullahd/firzatullahd/master/img/heroku.png)
 
 ## Some of My Projects:
 
