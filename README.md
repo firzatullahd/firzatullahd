@@ -8,8 +8,8 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
-[<img align="left" alt="html5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
+[<img align="left" alt="Visual Studio Code" width="26px" src="./img/vscode.ico" />]
+[<img align="left" alt="html5" width="26px" src="./img/HTML5logo.png" />]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
 [<img align="left" alt="sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
@@ -26,9 +26,9 @@
 - [Movie Database Website]
 - [Fake Pizza Hut Website]
 
-[Personal Website]: https://firzatullahd.github.io
-[Bootstrap Website]: https://firzatullahd.github.io/bootstrap
-[Vidly-React-App]: https://firzatullahd-vidly.herokuapp.com/
-[Responsive Website]: https://firzatullahd.github.io/responsive-web
-[Movie Database Website]: https://firzatullahd.github.io/implement-moviedb-api
-[Fake Pizza Hut Website]: https://firzatullahd.github.io/wpu-hut
+[personal website]: https://firzatullahd.github.io
+[bootstrap website]: https://firzatullahd.github.io/bootstrap
+[vidly-react-app]: https://firzatullahd-vidly.herokuapp.com/
+[responsive website]: https://firzatullahd.github.io/responsive-web
+[movie database website]: https://firzatullahd.github.io/implement-moviedb-api
+[fake pizza hut website]: https://firzatullahd.github.io/wpu-hut
