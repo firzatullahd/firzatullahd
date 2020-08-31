@@ -12,7 +12,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" "https://raw.githubusercontent.com/firzatullahd/firzatullahd/master/img/vscode.ico" />] ()
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/firzatullahd/firzatullahd/master/img/vscode.ico" />]
 [<img align="left" alt="html" width="26px" src="https://raw.githubusercontent.com/firzatullahd/firzatullahd/master/img/html.png" />]
 [<img align="left" alt="css" width="26px" src="https://raw.githubusercontent.com/firzatullahd/firzatullahd/master/img/css.png" />]
 [<img align="left" alt="bootstrap" width="26px" src="https://raw.githubusercontent.com/firzatullahd/firzatullahd/master/img/bootstrap.png" />]
