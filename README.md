@@ -2,7 +2,7 @@
 
 ## I'm a New Developer:
 
-> For the past few months I have learned, understand, and practice front end tools, such as HTML, CSS, Javascript
+> For the past few months I have learned, understood, and practiced Front End Skills and tools, such as HTML, CSS, Javascript
 > React, etc. I am confident that i can contribute as a Junior Front End Developer, and learn so much more!
 
 - I am currently looking for a job as a Junior Front End Developer.
