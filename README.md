@@ -2,13 +2,11 @@
 
 ## I'm a New Developer:
 
-> For the past few months I have learned, understand, and practice front end tools, such as HTML, CSS, Javascript
-> React, etc. I am confident that i can contribute as a Junior Front End Developer, and learn so much more!
+> I have learned, understood, and practiced Web Development Skills and tools, such as HTML, CSS, JS, Git,
+> React & React Native. I am confident that I can contribute as a Front-End Developer, and practice/sharpen my skills!
 
-- I am currently looking for a job as a Junior Front End Developer.
-- I'm currently trying to build some small projects, and hopefully big ones in the near future.
-- My goals by the end of 2020 is to be more proficient in using front end tools, and I hope to reach it by getting a job.
-- I desire more knowledge and experience in other things, such as: Node JS, UI/UX
+- My short-term goal is to get a job as front-end developer, sharpen and possibly get more knowledges, and of course build side projects with it.
+- currently in progress to complete node js course, and shortly after will practice react again and its UI library (framer motion etc).
 
 ### Languages and Tools:
 
